@@ -1,0 +1,154 @@
+
+[공통사항 서체는 구글 폰트에서 poppins 서체 연동]
+폰트 크기 또는 상하 간격은 미세조정 무방합니다. 
+
+
+[Vue.component 적용 사항]
+ - 상단 메뉴(주메뉴 및 아이콘)
+ - New Arrivals (좌상단 이미지 제외)
+ - Match your Energy 타이들 그룹 하단 3가지 영역
+ - New Year, New Gear 타이틀 그룹 하단 3가지 영역
+ - 푸터 Supports 및 About 타이틀의 각 리스트
+
+
+
+
+
+[메인 Banner]
+
+ 영상 소스 파일
+ <iframe class="movie_space" src="https://www.youtube.com/embed/iWI_uBH6R1g?rel=0&amp;autoplay=1&amp;loop=1&amp;playlist=iWI_uBH6R1g&amp;mute=1&amp;controls=0&amp;modestbranding=0&amp;showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+======================================================
+
+[New Arrival]
+ Products Launch
+ Stay in the know with the latest drops and upcoming launches, plus early access to PUMA exclusives. Catch it here first.
+
+
+
+	KING Platinum 21 FG/AG
+	Men's Soccer Cleats
+
+
+	FUSE
+	Training Shoes
+
+
+	Suede RE.GEN
+	Sneakers
+
+
+	Leadcat
+	G Sandals
+
+
+	COOLADAPT
+	Women’s Running Tank Top
+
+
+	Sonora Waist
+	BAG 2.0
+
+
+	High Court Regal Mid
+	Women's Sneakers
+
+
+	Cali Star Rainbow
+	Women's Sneakers
+
+
+	RS-Z Red
+	CAMPUS
+
+
+	MB.01
+	BUZZ CITY
+
+
+======================================================
+
+
+[Categories]
+
+ MATCH YOUR ENERGY
+ EXPLORE RUNNING CATEGORIES
+
+ category_01.jpg
+ EVERYDAY
+ BEST FOR: A RUN HERE AND THERE.
+
+ category_02.jpg
+ COMPETITIVE
+ BEST FOR: CHASING THE NEXT RACE.
+
+ category_03.jpg
+ LONG DISTANCE
+ BEST FOR: RACKING UP THE MILES.
+
+======================================================
+
+
+[mid_banner]
+
+ RUN PUMA
+
+ PUMA’s history is packed with nearly 75 years of world records, firsts, 
+and onlys from Abebe Bikila to Bill Rodgers to Sabrina Mockenhaupt to 
+Usain Bolt. In industry years, this makes us faster since forever, and we 
+believe now is the time for us to pick up speed again and spark change 
+from the most sought-after marathon finish lines to local run 
+communities.
+
+======================================================
+
+
+[Collections]
+
+ NEW YEAR, NEW GEAR
+ EXPLORE PERFORMANCE COLLECTIONS
+
+ 
+ collection_01.jpg
+ SOFT ON ANOTHER LEVEL
+ CLOUDSPUN
+
+ collection_02.jpg
+ ESCAPE FROM ROUTINE
+ PUMA x HELLY HANSEN
+ 
+ collection_03.jpg
+ EMPOWERED PEOPLE. CLEANER PLANET.
+ PUMA x FIRST MILE
+
+======================================================
+
+
+[footer]
+<<Support>>
+Customer Service
+Contact Us
+Shipping and Delivery
+Store Locator
+Return Policy
+Purchase a Digital Gift Card
+FAQs
+Terms & Conditions
+Privacy Policy
+Service Discount
+
+
+<<About>>
+Company
+Corporate News
+Press Center
+#REFORM
+Investors
+Sustainability
+Careers
+
+
+
+
+
