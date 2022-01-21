@@ -693,6 +693,9 @@ footer .reserved{
         left: 50%;
         transform: translate(-50%, -50%);
     }
+    .movie .dark_cover{
+        display: none;
+    }
 
     #energy{
         width: 100%;
