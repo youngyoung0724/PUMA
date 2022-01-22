@@ -696,6 +696,9 @@ footer .reserved{
     .movie .dark_cover{
         display: none;
     }
+    .movie .mouse img{
+        display: none;
+    }
 
     #energy{
         width: 100%;
